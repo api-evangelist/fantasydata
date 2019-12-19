@@ -1,0 +1,61 @@
+{
+    "name": "FantasyData",
+    "description": "Live coverage of all major sports delivered via cloud-based REST API. We cover NFL, MLB, NBA, NHL, PGA, NASCAR and more. Sign up for a free trial today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1545-fantasydata.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "statistics"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fantasydata\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FantasyData",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1545-fantasydata.jpg",
+            "humanURL": "https:\/\/fantasydata.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fantasydata-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.nfldata.apiphany.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.fantasydata.com\/blog"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.fantasydata.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@FantasyData.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nfldata"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/fantasydata.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fantasydata.com\/"
+        }
+    ]
+}
